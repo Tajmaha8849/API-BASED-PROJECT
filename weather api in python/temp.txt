@@ -1,0 +1,5 @@
+1.creating accoutn on openweatherMap and api key
+2.Accessing confidential information from windows environment
+3.Creating API request from Python
+4.Data Interpretation
+5.Display the Result

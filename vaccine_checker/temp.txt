@@ -1,0 +1,6 @@
+Topic covered
+
+1.Create function to send api request & recieve response
+2.Parse the recieved data and categorized the information
+3.Check for availability & send notification on Telegram
+4>Making script to run for Foreveer -until stoped manually
